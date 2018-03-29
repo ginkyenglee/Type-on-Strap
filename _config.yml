@@ -8,10 +8,10 @@ description: "about machine learning, algorithm study & some projects" # used by
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Gin-Git # blog's title
-  avatar: assets/img/triangle.svg #path of avatar image, to be displayed in the theme's header
-  favicon: assets/favicon.ico
-  gravatar: f98....6bfc # Email MD5 hash
+  #title: Gin-Git # blog's title
+  #avatar: assets/img/triangle.svg #path of avatar image, to be displayed in the theme's header
+  #favicon: assets/favicon.ico
+  #gravatar: f98....6bfc # Email MD5 hash
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
