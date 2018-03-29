@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: 
+baseurl: ""
 url: "https://ginkyenglee.github.io"
 title: Gin-Git # site's title
 description: "machine learning, algorithm, and projects" # used by search engines
